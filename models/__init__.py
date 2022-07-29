@@ -1,0 +1,1 @@
+from . import classe , eleve , filiere , matiere , note , professeur

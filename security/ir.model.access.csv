@@ -1,0 +1,2 @@
+id,name,model_id,group_id,perm_read,perm_write,perm_create,prem_unlik
+school_user,Base User,model_school,base.group,1,1,1,1
